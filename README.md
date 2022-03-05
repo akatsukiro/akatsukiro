@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Akatsukiro's GitHub stats](https://grs.api.chs.pub/api?username=akatsukiro&show_icons=true&theme=radical)
 <!--
 **akatsukiro/akatsukiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
