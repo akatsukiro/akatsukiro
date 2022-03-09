@@ -5,7 +5,7 @@ My nickname is Akatsuki Shiro, and I combine them personally as 'Akatsukiro'.
 ![Akatsukiro's GitHub stats](https://grs.api.chs.pub/api?username=akatsukiro&show_icons=true&theme=radical)
 
 - 🌱 I'm a freshman. Currently learning AI.
-- 💬 Here's my [blog](https://blog.chs.pub).
+- 💬 Here's my [blog](https://blog.chs.pub), written in Chinese.
 - 📫 How to reach me: [e-mail](mailto:admin@bep.ink)
 <!--
 **akatsukiro/akatsukiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
