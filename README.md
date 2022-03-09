@@ -2,9 +2,9 @@
 
 ![Akatsukiro's GitHub stats](https://grs.api.chs.pub/api?username=akatsukiro&show_icons=true&theme=radical)
 
-- I'm a freshman. Currently learning AI.
-- Here's my [blog](https://blog.chs.pub).
-- How to reach me: [e-mail](mailto:admin@bep.ink)
+- 🌱 I'm a freshman. Currently learning AI.
+- 💬 Here's my [blog](https://blog.chs.pub).
+- 📫 How to reach me: [e-mail](mailto:admin@bep.ink)
 <!--
 **akatsukiro/akatsukiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
