@@ -2,7 +2,7 @@
 
 My nickname is Akatsuki Shiro, and I combine them personally as 'Akatsukiro'.
 
-![Akatsukiro's GitHub stats](https://grs.api.chs.pub/api?username=akatsukiro&show_icons=true&theme=radical)
+![Akatsukiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=akatsukiro&show_icons=true&theme=radical)
 
 - 🌱 I'm a freshman. Currently learning AI.
 - 💬 Here's my [blog](https://blog.chs.pub), written in Chinese.
