@@ -7,6 +7,7 @@ My nickname is Akatsuki Shiro, and I combine them personally as 'Akatsukiro'.
 - 🌱 I'm a freshman. Currently learning AI.
 - 💬 Here's my [blog](https://blog.chs.pub), written in Chinese.
 - 📫 How to reach me: [e-mail](mailto:admin@bep.ink)
+- Donate:
 <!--
 **akatsukiro/akatsukiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
