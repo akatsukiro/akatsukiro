@@ -9,6 +9,7 @@ fn akatsukiro() {
     return;
 }
 ``` 
+<br/>
 <div align="center">
 <img src="https://readme-components.vercel.app/api?component=logo&logo=python&text=false&animation=spin&fill=black&textfill=66ccff"/>
 <img src="https://readme-components.vercel.app/api?component=logo&logo=rust&text=false&animation=spin&fill=black&textfill=66ccff"/>
