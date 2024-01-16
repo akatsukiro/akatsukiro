@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=akatsukiro&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true"/>
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=akatsukiro&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true"/> -->
 
 ```Rust
 fn akatsukiro() {
