@@ -8,7 +8,8 @@ fn akatsukiro() {
     // mailto:aka@bep.ink
     return;
 }
-``` 
+```
+<!-- 
 <br/>
 <div align="center">
 <img src="https://readme-components.vercel.app/api?component=logo&logo=python&text=false&animation=spin&fill=black&textfill=66ccff"/>
@@ -19,3 +20,4 @@ fn akatsukiro() {
 <img src="https://readme-components.vercel.app/api?component=logo&logo=visualstudiocode&text=false&animation=spin&fill=black&textfill=66ccff"/>
 <img src="https://readme-components.vercel.app/api?component=logo&logo=linux&text=false&animation=spin&fill=black&textfill=66ccff"/>
 </div>
+ -->
