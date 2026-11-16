@@ -3,7 +3,7 @@
 ```Rust
 fn akatsukiro() {
     let mut info:&str = "Student Currently Studing AI";
-    let blog:&str = "https://blog.chs.pub"; // Written in Chinese
+    let blog:&str = "https://blog.aks.moe"; // Written in Chinese
     
     // mailto:aka@bep.ink
     return;
